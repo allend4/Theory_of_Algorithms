@@ -1,11 +1,11 @@
 # Theory Of Algorithms
-***
+
 <b>Student Name:</b> <code>David Allen</code><br>
 <b>Student ID:</b> <code>G00375372</code><br>
 Repository for the Theory of Algorithms Project<br>
 
 ## Introduction
-***
+
 <p>The purpose of this assessment is to ensure that you have achieved the learning outcomes
 of the module while also providing you with sample work to show prospective employers.</p>
 <p>The main purpose of this project is to discuss two jupyter notebooks, <b>Post Correspondence Problem</b> and <b>Countdown Numbers Game</b>.</p>
