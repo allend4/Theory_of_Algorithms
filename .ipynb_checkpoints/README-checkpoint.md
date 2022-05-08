@@ -32,6 +32,11 @@ You can view the notebooks in STATIC form at nbviewer and in DYNAMIC form at bin
 | [![nbviewer](https://img.shields.io/badge/jupyter_notebooks-nbviewer-purple.svg?style=flat-square)](https://nbviewer.org/github/allend4/Theory_of_Algorithms/blob/main/post-correspondence.ipynb)  | [![nbviewer](https://img.shields.io/badge/jupyter_notebooks-nbviewer-purple.svg?style=flat-square)](https://nbviewer.org/github/allend4/Theory_of_Algorithms/blob/main/countdown.ipynb)  |
 | [![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/allend4-theory_of_algorithms-ttdeyfug/lab/tree/post-correspondence.ipynb)  | [![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/allend4-theory_of_algorithms-ttdeyfug/lab/tree/countdown.ipynb)  |
 
+### Technology Used
+***
+- <code>Python</code> - an interpreted, object-oriented, high-level programming language with dynamic semantics.
+- <code>Jupyter</code> - an open source web application that you can use to create and share documents that contain live code, equations, visualizations
+
 ### How to Run Jupyter Notebook
 ***
 1. Download Anaconda, if not already installed on your computer.
